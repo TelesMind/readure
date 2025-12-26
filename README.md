@@ -17,7 +17,7 @@
 ## ⚙️ Setup
 1. Run WAMP and place `Readure Library` in the `www` folder.  
 2. Import `readure.sql` in **phpMyAdmin**.  
-3. Open in browser:  http://localhost/readure-website/Readure%20Library/index.php
+3. Open in browser: http://localhost/readure-website/Readure/index.php
 
 
 ---
@@ -28,7 +28,7 @@ readure-website/
 │
 │ readure.sql # Database file
 │
-├─ Readure Library/ # Main source code
+├─ Readure/ # Main source code
 │ ├─ config.php # DB connection
 │ ├─ index.php # Homepage
 │ ├─ content.php # News detail
@@ -56,8 +56,8 @@ All screenshots are in `/Website Screenshots/`.
 ## 👩‍💻 Author
 **ShiHui TANG**   
 📍 Shenzhen, China  
-📅 2024.10 – 2025.12  
+📅 2025.06 
 
 
 
-> Clean. Functional. Fully self-developed.
+> Clean. Functional. Fully self-designed.
